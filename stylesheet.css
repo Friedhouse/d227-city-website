@@ -89,7 +89,22 @@ img {
     position: absolute;
 }
 
+#flag-icon{
+    width: 40px;
+    padding: 10px;
+    position: relative;
+}
+
 .little-rock-night {
+    width: 400px;
+}
+
+.bentonville {
+    width: 600px;
+    border-radius: 10px;
+}
+
+#museum {
     width: 400px;
 }
 
@@ -100,10 +115,4 @@ img {
 
 #mob {
     width: 400px;
-}
-
-#flag-icon{
-    width: 40px;
-    padding: 10px;
-    position: relative;
 }
