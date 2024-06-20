@@ -68,7 +68,7 @@ tr:hover {
     background-color: rgb(8, 184, 108);
 }
 
-/*Common and individual image styling */
+/*Image styling */
 img {
     border-radius:50%;
 }
@@ -83,6 +83,12 @@ img {
     border-radius: 10px;
 }
 
+.little-rock-flag{
+    width: 100px;
+    border-radius: unset;
+    position: absolute;
+}
+
 .little-rock-night {
     width: 400px;
 }
@@ -94,4 +100,10 @@ img {
 
 #mob {
     width: 400px;
+}
+
+#flag-icon{
+    width: 40px;
+    padding: 10px;
+    position: relative;
 }
