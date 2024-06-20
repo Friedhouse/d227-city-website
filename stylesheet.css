@@ -116,3 +116,12 @@ img {
 #mob {
     width: 400px;
 }
+
+label {
+    display: block;  
+    margin-top: 10px;
+ }
+ input  {
+    display: block;
+    margin-bottom: 10px;
+ }
